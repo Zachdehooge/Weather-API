@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W5mr5fmyO/QOefPaEVWBnEZk0AmelvpPF9XLW3yMI4m016XH/lPOfOft7fooi5MQ3MDFjcq27jcFjY0T+BOGRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dehoogzg\\Desktop\\RiderProjects\\Mortgage-Rates\\WeatherAPI\\WeatherAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dehoogzg\\.nuget\\packages\\jobject\\1.0.0\\jobject.1.0.0.nupkg.sha512",
+    "C:\\Users\\dehoogzg\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta3\\newtonsoft.json.13.0.2-beta3.nupkg.sha512"
+  ],
+  "logs": []
+}
