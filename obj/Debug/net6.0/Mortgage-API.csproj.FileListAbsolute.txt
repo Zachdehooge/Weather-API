@@ -1,0 +1,15 @@
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\bin\Debug\net6.0\Mortgage-API.exe
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\bin\Debug\net6.0\Mortgage-API.deps.json
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\bin\Debug\net6.0\Mortgage-API.runtimeconfig.json
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\bin\Debug\net6.0\Mortgage-API.dll
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\bin\Debug\net6.0\Mortgage-API.pdb
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\obj\Debug\net6.0\Mortgage-API.csproj.AssemblyReference.cache
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\obj\Debug\net6.0\Mortgage-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\obj\Debug\net6.0\Mortgage-API.AssemblyInfoInputs.cache
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\obj\Debug\net6.0\Mortgage-API.AssemblyInfo.cs
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\obj\Debug\net6.0\Mortgage-API.csproj.CoreCompileInputs.cache
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\obj\Debug\net6.0\Mortgage-API.dll
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\obj\Debug\net6.0\refint\Mortgage-API.dll
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\obj\Debug\net6.0\Mortgage-API.pdb
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\obj\Debug\net6.0\Mortgage-API.genruntimeconfig.cache
+C:\Users\dehoogzg\Desktop\RiderProjects\Mortgage-Rates\Mortgage-API\obj\Debug\net6.0\ref\Mortgage-API.dll
