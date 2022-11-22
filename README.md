@@ -1,12 +1,8 @@
-# Calculator Application
+# Weather API Console Application
 
-> A simple calculator application that does positive calculations.
+> Simple console application that makes an API call request to WeatherAPI.com
 
-
-
-A simple application to practice JFrames, if statements, and buttons in a GUI environment.
-
-![](Calculator_Application.png)
+![](weather.png)
 
 ## Installation
 
