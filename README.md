@@ -11,7 +11,13 @@ Windows:
 ```sh
 * Download zip file
 
-* Open CMD or powershell and CD into the WeatherAPI/bin/Release/net6.0
+* Unzip .zip file to desktop and open .csproj file in Visual Studio or other .NET IDE
+
+* Get your API key from https://rapidapi.com and paste in the "ENTER RAPID API KEY HERE" section
+
+* Build the solution
+
+* Navigate to /bin/Debug(Release)/net6.0/
 
 * Run the WeatherAPI.exe
 ```
@@ -23,7 +29,7 @@ Windows:
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it
 2. Create your feature branch
 3. Commit your changes
 4. Push to the branch 
